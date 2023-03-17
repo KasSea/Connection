@@ -10,7 +10,7 @@ namespace lab6
             InitializeComponent();
 
         }
-
+        // duma 
         public void Print()
         {
             Console.WriteLine("/");
