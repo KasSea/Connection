@@ -15,7 +15,7 @@ namespace lab6
         {
             Console.WriteLine("/");
         }
-
+        // abss
         public void btTong_Click(object sender, EventArgs e)
         {
 
