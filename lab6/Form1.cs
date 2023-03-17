@@ -18,7 +18,7 @@ namespace lab6
         // abss
         public void btTong_Click(object sender, EventArgs e)
         {
-
+            //comment
             Console.WriteLine(txtSoThuNhat.Text);
             Console.WriteLine(txtSoThuHai.Text);
             Console.WriteLine(txtTuso.Text);
